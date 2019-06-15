@@ -1,0 +1,198 @@
+#leftNav {width:180px;font-size:12px;font-weight:bold; border-bottom: 1px solid #FFFFFF;}
+#leftNav tr {list-style:none; margin:0; padding:0; border:medium none inherit;}
+#leftNav td {border-bottom:1px solid #CCCCCC; border-top:1px solid #ffffff; margin:0; border-right: 1px solid #CCCCCC;}
+#leftNav td a {display: block; padding: 5px 5px 5px 10px; background-color: #EDE9E6; width: 100%;}
+html>body #leftNav td a {width: auto;}
+#leftNav td a:link {text-decoration: none; color: #0000ff;}
+#leftNav td a:visited {text-decoration: none; color: #0000ff;}
+#leftNav td a:hover {text-decoration: underline; background-color: #cfdff2; color: #ff9900;}
+
+
+#hadi {width:20px;font-size:12px;font-weight:bold; border-bottom: 1px solid #FFFFFF;}
+#hadi tr {list-style:none; margin:0; padding:0; border:medium none inherit;}
+#hadi td {border-bottom:1px solid #CCCCCC; border-top:1px solid #ffffff; margin:0; border-right: 1px solid #CCCCCC;}
+#hadi td a {display: block; padding: 5px 5px 5px 10px; background-color: #EDE9E6; width: 100%;}
+html>body #hadi td a {width: auto;}
+#hadi td a:link {text-decoration: none; color: #0000ff;}
+#hadi td a:visited {text-decoration: none; color: #0000ff;}
+#hadi td a:hover {text-decoration: underline; background-color: #cfdff2; color: #ff9900;}
+#image { border:5;
+border-color:#FF9900;
+}
+body {
+	margin-bottom: 0px;
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	bgcolor: #000000;
+}
+td, textarea, input, select {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #666666;
+	font-weight: normal;
+	
+}
+.tableDetail {
+	font-size: 12px;
+	font-family: Verdana;
+	
+}a:link {
+	color: #000000;
+	font-family: Verdana;
+	font-size: 12px;
+	text-decoration: none;
+
+}
+a:hover {
+	color: #ff0000;
+	font-family: Verdana;
+	font-size: 12px;
+	text-decoration: underline;
+}
+a:active {
+	color: #000000;
+	font-family: Verdana;
+	font-size: 12px;
+	text-decoration: none;
+}a {
+	color: #000000;
+	font-family: Verdana;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.title:link {
+	color: #336699;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+.title:hover {
+	color: #ff9900;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+.title:active {
+	color: #336699;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.title{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #336699;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text {
+	font-family:  Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none
+}
+.tebal {
+	font-family:  Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #990000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.more {
+	font-size: 11px;
+	font-family: arial;
+	color: #ff0000;
+}.putih {
+	font-size: 13px;
+	font-family: arial;
+	color: #ffffff;
+}
+.copy {
+	font-size: 11px;
+	font-family: arial;
+	color: #333333;
+}#Layer1 {
+	position:absolute;
+	left:232px;
+	top:273px;
+	width:250px;
+	height:31px;
+	z-index:1;
+}
+#Layer2 {
+	position:absolute;
+	left:174px;
+	top:314px;
+	width:582px;
+	height:105px;
+	z-index:2;
+}
+#Layer3 {
+	position:absolute;
+	left:137px;
+	top:449px;
+	width:136px;
+	height:41px;
+	z-index:3;
+}#Layer4 {
+	position:absolute;
+	left:51px;
+	top:255px;
+	width:540px;
+	height:299px;
+	z-index:1;
+}
+#Layer5 {
+	position:absolute;
+	left:612px;
+	top:253px;
+	width:102px;
+	height:171px;
+	z-index:2;
+}
+#Layer6 {
+	position:absolute;
+	left:758px;
+	top:303px;
+	width:133px;
+	height:232px;
+	z-index:3;
+}#Layer7 {
+	position:absolute;
+	left:300px;
+	top:588px;
+	width:498px;
+	height:27px;
+	z-index:4;
+}.wrap {
+	background: #fff;
+	border: 1px dashed #000000;
+	clear: both;
+	margin: 15px auto;
+	padding: .5em 1em;
+	text-align:left;
+	width:815px;
+}.wrap h2 {
+	margin: .8em 0 .5em;
+	clear: both;
+}.wrap-tabs {
+	background: #fff;
+	border: 1px dashed #000000;
+	clear: both;
+	margin: 15px auto;
+	padding: .5em 1em;
+	text-align:left;
+	width:815px;
+}.wrap-tabs h2 {
+	margin: .8em 0 .5em;
+}

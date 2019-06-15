@@ -1,0 +1,34 @@
+/*
+General CSS for the demos of DHTMLSuite
+*/
+body{
+	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+	font-size:0.8em;
+}
+
+a{
+	color:red;
+	text-decoration:underline;
+}
+
+pre{
+	color:red;
+}
+h2{
+	font-size:1.2em;
+	}
+table {
+  background-color : #FFFFFF;
+}
+tr {
+  font-family      : Verdana, Arial, Helvetica, sans-serif;
+  font-size        : 10px;
+}
+
+td {
+  font-size        : 10px;
+  background-color : #FFFFFF;
+  text-align       : left;
+}
+	
+	

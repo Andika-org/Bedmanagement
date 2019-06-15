@@ -1,0 +1,28 @@
+table bad
+- ITbrRwt	-> table master ruangan
+- ITbrRwtD	-> table master kamar
+- ITbrRwtDD	-> table master bed
+- ITbKelas	-> table master kelas pasien
+- jpasien	-> table master pasien
+- JDokter	-> table master dokter
+- ri_hrinap	-> table registrasi rawat inap
+- RI_DIAGNOSA	-> table diagnosa
+
+Staus kamar di tbl itbrrwtdd...0 kosong..1 lg dibersihkan..2 terisi..3 tdk bisa dipakai..mungkin sdang renovasi misalnya..
+
+- Ruangan 
+	- Isolasi
+	- HCU
+	- ICU
+	- Perina
+	- Anak
+	- PICU
+	- NICU
+- Kamar
+	- Umur
+	- L
+	- P
+	- BIDAN
+
+- Bed
+

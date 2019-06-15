@@ -1,0 +1,168 @@
+body {
+	margin: 6px;
+	background-color: #ffffff;
+}
+p, div {
+  font-family      : Verdana, Arial, Helvetica, sans-serif;
+  font-size        : 11px;
+  color            : #333333;
+}
+h1 {
+  font-family      : Verdana, Helvetica, Arial, sans-serif;
+  font-size        : 10px;
+  font-weight    : bold;
+  color             : black;
+}
+h2 {
+  font-family      : Verdana, Helvetica, Arial, sans-serif;
+  font-size        : 10px;
+  font-weight	   : bold;
+  color            : gray;
+}
+
+small {
+  font-family      : Verdana, Helvetica, Arial, sans-serif;
+  font-size        : 11px;
+  font-weight      : bold;
+  color            : black;
+}
+
+table.title {
+  background-color : #111111;
+}
+table.isi {
+  background-color : #000000;
+}
+table.ln {
+  background-color : #111111;
+}
+
+tr {
+  font-family      : Arial, Helvetica, sans-serif;
+  font-size        : 12px;
+}
+
+td.isi1 {
+  font-size        : 12px;
+  background-color : #ffffff;
+  text-align       : left;
+}
+td.isi2 {
+  font-size        : 12px;
+  background-color : #ffffff;
+  text-align       : center;
+}
+td.isi3 {
+  font-size        : 12px;
+  background-color : #ffffff;
+  text-align       : right;
+}
+td.ki {
+  font-size        : 12px;
+  background-color : #ffffff;
+  text-align       : left;
+}
+td.ka {
+  font-size        : 12px;
+  background-color : #ffffff;
+  text-align       : right;
+}
+td.tg {
+  font-size        : 12px;
+  font-weight    : bold;
+  background-color : #ffffff;
+  text-align       : center;
+}
+
+.subtitle {
+font-family: sans-serif;
+font-size: 11px;
+font-weight: bold;
+color : blue;
+text-transform: uppercase;
+letter-spacing: 2px;
+margin-left: 20px;
+}
+
+#active_menu {
+  color: #000000;
+}
+
+a.mainmenu:link, a.mainmenu:visited {
+color: grey;
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-weight: bold;
+font-size  : 10px;
+
+}
+a.mainmenu:hover {
+color: red;
+}
+
+.button {
+  font-family     : Verdana, Arial, Helvetica, sans-serif;
+  font-style       : normal;
+  font-size        : 10px;
+  font-weight    : bold;
+  background-color : #F0F0F0;
+  color            : #FFFFFF;
+  border           : 1px solid #CCCCCC;
+}
+
+.inputbox {
+  font-family      : Verdana, Arial, Helvetica, sans-serif;
+  font-size        : 10px;
+  color            : #000000;
+  background-color : #EAF4FF;
+  border           : 1px dot #EAF4FF;
+}
+.inputbot {
+  font-family      : Verdana, Arial, Helvetica, sans-serif;
+  font-size        : 10px;
+  color            : white;
+  background-color : white;
+  border           : 0px solid white;
+}
+
+a:link, a:visited {
+color: #ff6600;
+text-decoration: none;
+}
+
+a:hover {
+color: red;
+text-decoration: underline;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  line-height: 15px;
+  padding-left: 10px;
+  padding-top: 0px;
+  background-image: url(../images/arrow.png) ;
+  background-repeat: no-repeat;
+  background-position: 0px 3px;
+}
+
+form {
+/* removes space below form elements */
+	margin: 0;
+ 	padding: 0;
+}
+
+#DHTMLSuite_pane_south {display: none;}
+
+#DHTMLSuite_pane_north {display: none;}
+
+#DHTMLSuite_pane_west  {display: none;}
+
+.DHTMLSuite_paneTabs table{ display:none; }
+
+.DHTMLSuite_paneHeader { display:none; }
+
+.DHTMLSuite_paneHeader .paneTitle{ display:none; }
